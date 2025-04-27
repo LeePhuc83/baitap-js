@@ -25,11 +25,9 @@ btnClick.onclick = function () {
 
     console.log(output);
 
-    pInfo_1.style.backgroundColor = "yellow";
-    pInfo_1.style.color = "red";
-    pInfo_1.style.fontSize = "20px";
-    pInfo_1.style.textAlign = "center";
+    pInfo_1.className = "info";
 
+   
 
     
 
