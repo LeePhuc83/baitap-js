@@ -27,9 +27,9 @@ btnClick.onclick = function () {
 
     pInfo_1.className = "info";
 
-   
 
-    
+
+
 
 }
 
